@@ -90,11 +90,12 @@ to be searched along the y axis, as it was giving false positives in the top hal
 #### 2. Show some examples of test images to demonstrate how your pipeline is working.  What did you do to optimize the performance of your classifier?
 
 Utimately I took the hog features once, and sub-sampled the array to improve performance. This is performed in a function called `calculate_hog_for_entire_region` on line 458. this works on
-the test data. Here are some example images:
+the test data. I then used the `calculate_hog_for_entire_region` to construct a function called find_cars on line 559, it is Similar function to calculate_hog_for_entire_region, but works on one image.
+
+Here are some example images:
 
 ![alt text][image4]
 
-I then used the `calculate_hog_for_entire_region` to construct a function called find_cars on line 559, it is Similar function to calculate_hog_for_entire_region, but works on one image.
 ---
 
 ### Video Implementation

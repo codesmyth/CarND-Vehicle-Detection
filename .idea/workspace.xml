@@ -2,23 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52705bdf-e8b6-44af-9022-2ddbd69213af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out_project_video.mp4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/writeup/HOG_example.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/writeup/bboxes_and_heat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/writeup/car_not_car.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/writeup/output_bboxes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/writeup/sliding_window.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/CarND-Vehicle-Detection.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dataprep.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generate_video.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image_generation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vehicle_detect_lessons.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/examples/sliding_windows.jpg" afterPath="$PROJECT_DIR$/writeup/sliding_windows.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/writeup_template.md" afterPath="$PROJECT_DIR$/writeup_template.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,8 +17,8 @@
       <file leaf-file-name="writeup_template.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/writeup_template.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+            <state relative-caret-position="424">
+              <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,8 +27,8 @@
       <file leaf-file-name="image_generation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/image_generation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="292" column="23" lean-forward="false" selection-start-line="292" selection-start-column="4" selection-end-line="292" selection-end-column="23" />
+            <state relative-caret-position="589">
+              <caret line="693" column="0" lean-forward="true" selection-start-line="693" selection-start-column="0" selection-end-line="693" selection-end-column="0" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
                 <element signature="e#550#1161#0" expanded="false" />
@@ -61,6 +44,7 @@
                 <element signature="e#8352#10148#0" expanded="false" />
                 <element signature="e#10504#11801#0" expanded="false" />
                 <element signature="e#11849#11972#0" expanded="false" />
+                <element signature="e#12017#12618#0" expanded="false" />
                 <element signature="e#12705#14673#0" expanded="false" />
                 <element signature="e#14705#17224#0" expanded="false" />
                 <element signature="e#17259#18956#0" expanded="false" />
@@ -481,6 +465,7 @@
             <element signature="e#8352#10148#0" expanded="false" />
             <element signature="e#10504#11801#0" expanded="false" />
             <element signature="e#11849#11972#0" expanded="false" />
+            <element signature="e#12017#12618#0" expanded="false" />
             <element signature="e#12705#14673#0" expanded="false" />
             <element signature="e#14705#17224#0" expanded="false" />
             <element signature="e#17259#18956#0" expanded="false" />
@@ -789,8 +774,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/image_generation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="292" column="23" lean-forward="false" selection-start-line="292" selection-start-column="4" selection-end-line="292" selection-end-column="23" />
+        <state relative-caret-position="589">
+          <caret line="693" column="0" lean-forward="true" selection-start-line="693" selection-start-column="0" selection-end-line="693" selection-end-column="0" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
             <element signature="e#550#1161#0" expanded="false" />
@@ -806,6 +791,7 @@
             <element signature="e#8352#10148#0" expanded="false" />
             <element signature="e#10504#11801#0" expanded="false" />
             <element signature="e#11849#11972#0" expanded="false" />
+            <element signature="e#12017#12618#0" expanded="false" />
             <element signature="e#12705#14673#0" expanded="false" />
             <element signature="e#14705#17224#0" expanded="false" />
             <element signature="e#17259#18956#0" expanded="false" />
@@ -820,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/writeup_template.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        <state relative-caret-position="424">
+          <caret line="94" column="0" lean-forward="false" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
           <folding />
         </state>
       </provider>
