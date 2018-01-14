@@ -1,0 +1,6 @@
+.DS_Store
+*.p
+*.txt
+vehicles/
+non-vehicles/
+*.zip
